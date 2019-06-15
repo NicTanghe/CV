@@ -1,0 +1,4 @@
+PWD C:\Users\nicta\Documents\Markdown\FrigiTry
+INPUT C:\Users\nicta\AppData\Local\MiKTeX\2.9\miktex\data\le\xetex\xelatex.fmt
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\.tex
+OUTPUT .log
