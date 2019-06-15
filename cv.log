@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.14)  15 JUN 2019 01:19
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.6.14)  15 JUN 2019 02:11
 entering extended mode
 **c:/Users/nicta/Documents/Markdown/FrigiTry/cv.tex
 (c:/Users/nicta/Documents/Markdown/FrigiTry/cv.tex
@@ -1190,29 +1190,29 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 41.
+(Font)              scaled to size 10.00107pt on input line 40.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 41.
+(Font)              scaled to size 7.00075pt on input line 40.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 41.
+(Font)              scaled to size 5.00053pt on input line 40.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 41.
+(Font)              scaled to size 9.99893pt on input line 40.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 41.
+(Font)              scaled to size 6.99925pt on input line 40.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 41.
+(Font)              scaled to size 4.99947pt on input line 40.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--85
+Underfull \hbox (badness 10000) in paragraph at lines 58--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--111
+Underfull \hbox (badness 10000) in paragraph at lines 87--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--122
+Underfull \hbox (badness 10000) in paragraph at lines 113--121
 
  []
 
@@ -1223,11 +1223,11 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
  (cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 140.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
 
 
 Package rerunfilecheck Warning: File `cv.out' has changed.
